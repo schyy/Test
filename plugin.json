@@ -1,0 +1,8 @@
+{
+    "name"              :"Test",
+    "description"       :"a Test Plugin to test Pluginsn",
+    "namespace"         :"Test",
+    "author"            :"Schyy",
+    "type"              :"template",
+    "serviceProvider"   :"Test\\Providers\\TestServiceProvider"
+}
